@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = '7778834611:AAE0Qat6xNmQiKRxdQxt1GV1QOEFmZY0S7M'
+TOKEN = 'TOKEN'
 MSG = "Did you drink enough water today, {}? "
 
 bot = Bot(token=TOKEN)
